@@ -1,0 +1,27 @@
+{
+  "name": "strava",
+  "version": "1.0.0",
+  "description": "Getting strava activity using Strava API",
+  "main": "index.js",
+  "homepage": "https://github.com/manikandanb975121/Strava",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/manikandanb975121/Strava.git"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Manikandan B",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.21.1",
+    "google-polyline": "^1.0.3"
+  },
+  "keywords": [
+    "github",
+    "npm",
+    "strava",
+    "strava access token",
+    "strava activity"
+  ]
+}
